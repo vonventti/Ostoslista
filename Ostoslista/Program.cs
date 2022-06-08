@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Text;
 
 namespace Ostoslista
 {
@@ -13,7 +12,28 @@ namespace Ostoslista
 
             string path = @"C:\Users\Anders\ostoslista.txt";
 
-            File.WriteAllText(path, tuote);
+            // Luo tiedosto (jos ei jo ole)
+            if (!File.Exists(path))
+            {
+                using (StreamWriter sw = File.CreateText(path));
+            }
+
+            // Lisää tuote
+            using (StreamWriter sw = File.AppendText(path))
+            {
+                sw.WriteLine(tuote);
+            }
+
+            // Lue tuotteet
+            using (StreamReader sr = File.OpenText(path))
+            {
+                string s = "";
+                while ((s = sr.ReadLine()) != null)
+                {
+                    Console.WriteLine(s);
+                }
+            }
+
         }
     }
 }
