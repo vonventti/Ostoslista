@@ -1,0 +1,14 @@
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\bin\Debug\netcoreapp3.1\Ostoslista.exe
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\bin\Debug\netcoreapp3.1\Ostoslista.deps.json
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\bin\Debug\netcoreapp3.1\Ostoslista.runtimeconfig.json
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\bin\Debug\netcoreapp3.1\Ostoslista.runtimeconfig.dev.json
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\bin\Debug\netcoreapp3.1\Ostoslista.dll
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\bin\Debug\netcoreapp3.1\Ostoslista.pdb
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.csproj.AssemblyReference.cache
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.AssemblyInfoInputs.cache
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.AssemblyInfo.cs
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.dll
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.pdb
+C:\Users\Anders\source\repos\Ostoslista\Ostoslista\obj\Debug\netcoreapp3.1\Ostoslista.genruntimeconfig.cache
